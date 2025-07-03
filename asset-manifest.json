@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sunshine-villa/static/css/main.fed50a8b.css",
+    "main.js": "/sunshine-villa/static/js/main.bdcecb42.js",
+    "static/js/453.e643c645.chunk.js": "/sunshine-villa/static/js/453.e643c645.chunk.js",
+    "static/media/map.PNG": "/sunshine-villa/static/media/map.4a3d598b5d72a3c05e82.PNG",
+    "index.html": "/sunshine-villa/index.html",
+    "main.fed50a8b.css.map": "/sunshine-villa/static/css/main.fed50a8b.css.map",
+    "main.bdcecb42.js.map": "/sunshine-villa/static/js/main.bdcecb42.js.map",
+    "453.e643c645.chunk.js.map": "/sunshine-villa/static/js/453.e643c645.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed50a8b.css",
+    "static/js/main.bdcecb42.js"
+  ]
+}
